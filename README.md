@@ -51,7 +51,7 @@ Como iniciante, enfrentei desafios importantes, especialmente para entender e im
 ### 1. Preparando o Backend (Laravel)
 
 1. **Clone o repositório do backend:**
-git clone https://github.com/PierreOtavio/projAlfa/main/Alfa_back-broken.git
+git clone https://github.com/PierreOtavio/projAlfa.git
 cd seu-projeto-laravel
 
 2. **Instale as dependências do Laravel:**
@@ -79,8 +79,7 @@ O backend estará disponível em `http://localhost:8000` (ou a porta exibida no 
 ### 2. Preparando o Mobile (Flutter)
 
 1. **De preferência baixe o arquivo zip:**
-git clone https://github.com/PierreOtavio/projAlfa/main/flutter_app_2.git
-cd seu-projeto-flutter
+git clone https://github.com/PierreOtavio/projAlfa.git cd seu-projeto-flutter
 
 2. **Instale as dependências do Flutter:**
 flutter pub get
