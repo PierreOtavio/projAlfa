@@ -100,12 +100,6 @@ Você pode rodar em um emulador Android/iOS ou em um dispositivo físico conecta
 
 ---
 
-## 🖼️ Exemplos de Uso
-
-> Adicione aqui prints ou GIFs do app e da interface web para ilustrar o funcionamento.
-
----
-
 ## 💡 Aprendizados
 
 - Integração de sistemas via API REST
@@ -117,7 +111,7 @@ Você pode rodar em um emulador Android/iOS ou em um dispositivo físico conecta
 
 ## 👨‍💻 Sobre Mim
 
-Sou Otávio Pierre, estudante do 2º ano do Ensino Médio e do curso técnico de Desenvolvimento de Sistemas no Senac MG, apaixonado por tecnologia e desenvolvimento fullstack. Tenho experiência com PHP, Dart, JavaScript, Flutter, Laravel e Nest.js. Gosto de trabalhar em equipe, sou comunicativo e estou sempre buscando aprender mais.
+Sou Otávio Pierre, estudante do 2º ano do Ensino Médio e do curso técnico de Desenvolvimento de Sistemas no Senac MG, apaixonado por tecnologia e desenvolvimento fullstack. Tenho experiência com PHP, Dart, JavaScript, Flutter e Laravel. Gosto de trabalhar em equipe, sou comunicativo e estou sempre buscando aprender mais.
 
 ---
 
